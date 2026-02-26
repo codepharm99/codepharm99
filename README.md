@@ -1,4 +1,3 @@
-```text
 ⣿⣿⣿⣿⣿⢿⠿⠿⠿⠛⠛⠛⠛⠻⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⠟⠋⣁⠄⠄⣀⣤⣤⣤⣀⣉⣁⡀⠒⠄⠉⠛⣿⣿⣿⣿⣿
 ⡏⢡⣴⠟⠁⠐⠉⠄⣤⣄⠉⣿⠟⢃⡄⠄⠄⢠⡀⠈⠻⣿⣿⣿
@@ -30,4 +29,4 @@ DB        : PostgreSQL, MySQL, MongoDB, Redis
 DevOps    : Docker, Nginx, Linux, Grafana
 ML/CV     : TensorFlow, PyTorch, Keras, OpenCV
 Tools     : Git, Postman, Firebase, Pandas, Figma, Blender, Arduino
-<p> <a href="https://linkedin.com/in/taurbek/" target="_blank" rel="noreferrer"> <img alt="LinkedIn" height="20" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /> </a> </p> ```
+<p> <a href="https://linkedin.com/in/taurbek/" target="_blank" rel="noreferrer"> <img alt="LinkedIn" height="20" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /> </a> </p> 
